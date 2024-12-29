@@ -11,20 +11,26 @@ class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/v2rayvpno"),
-            ChannelConfig("https://t.me/s/ZibaNabz"),
             ChannelConfig("https://t.me/s/v2rayngvpn"),
             ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            ChannelConfig("https://t.me/s/SvnV2ray"), 
+            ChannelConfig("https://t.me/s/ZibaNabz"),
+            ChannelConfig("https://t.me/s/SvnV2ray"),
             ChannelConfig("https://t.me/s/RadixVPN"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://t.me/s/VlessConfig"),
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/ShadowProxy66"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
+            ChannelConfig("https://t.me/s/flyv2ray"),
+            ChannelConfig("https://t.me/s/V2RayTz"),
+            ChannelConfig("https://t.me/s/Maznet"),
+            ChannelConfig("https://t.me/s/ConfigsHUB"),
             ChannelConfig("https://t.me/s/freewireguard")
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 5,
-            "max": 15
+            "min": 1,
+            "max": 50
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -36,8 +42,8 @@ class ProxyConfig:
             "trojan://": {"min_configs": self.PROTOCOL_CONFIG_LIMITS["min"], "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"]}
         }
 
-        self.MIN_CONFIGS_PER_CHANNEL = 5
-        self.MAX_CONFIGS_PER_CHANNEL = 30
+        self.MIN_CONFIGS_PER_CHANNEL = 1
+        self.MAX_CONFIGS_PER_CHANNEL = 50
         self.MAX_CONFIG_AGE_DAYS = 7
         self.CHANNEL_RETRY_LIMIT = 3
         self.CHANNEL_ERROR_THRESHOLD = 0.5
