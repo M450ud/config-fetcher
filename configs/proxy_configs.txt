@@ -132,8 +132,6 @@ vless://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443
 
 vless://08074685-1f9b-419b-87ea-c2c9d51b9461@209.250.227.192:2048?security=none&encryption=none&host=saveeditonline.com&headerType=http&type=tcp#%40WiFi-%40V2ray_Alpha-13
 
-vless://08e887ac-be53-4499-9728-c393ce935593@49.12.106.37:56745?security=reality&encryption=none&pbk=reeGxEx25Fzh3KrT4p-YYOw84ugb5LUG_h8atOpPUQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://1786e6f4-2632-486b-80b8-4389415aac5f@spd.fastly80-3.hosting-ip.com:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=PINF.spdnet.ir.&type=ws#MCI-%40V2ray_Alpha-9
 
 vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#IR-%40V2ray_Alpha-15
@@ -185,6 +183,8 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.104:2198?security=none&
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-14
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.18:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-15
+
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.113.164:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-IR%40V2ray_Alpha-15
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&encryption=none&headerType=none&type=tcp#WiFi-IR%40V2ray_Alpha-10
 
@@ -288,6 +288,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40WiFi-%40V2ray_Alpha-3
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZW1sS1pMMjRnWmY5WDhleWtGZHly@195.16.74.107:35570#WiFi-%40V2ray_Alpha-2
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZW1sS1pMMjRnWmY5WDhleWtGZHly@195.16.74.107:35570#WiFi-IR%40V2ray_Alpha-8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDE5Yjg4ZS03YWY2LTQwMzgtODU3NC1iZmU4OGRhNGVkMjk%3D@146.190.91.101:30443#%40WiFi-%40V2ray_Alpha-8
@@ -297,8 +299,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDE5Yjg4ZS03YWY2LTQwMzgtODU3NC1iZmU4OGRhNGV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#WiFi-%40V2ray_Alpha-8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcXlVMVUyZGkyUVdnRkdyT2U4YUQ0@77.221.157.56:51279#IR-%40V2ray_Alpha-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#%F0%9F%87%BA%F0%9F%87%B8%20US-92.118.112.111%3A18622 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#WiFi-%40V2ray_Alpha-9
 
@@ -346,6 +346,8 @@ trojan://telegram-id-directvpn@15.188.214.186:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@15.236.166.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-directvpn@3.127.128.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@13.43.51.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.49.169.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -355,6 +357,10 @@ trojan://telegram-id-privatevpns@13.50.143.48:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@16.16.29.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.158.92.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-privatevpns@18.175.78.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@18.175.78.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍᴏғɢʀᴇᴀᴛʙʀɪᴛᴀɪɴᴀɴᴅɴᴏʀᴛʜᴇʀɴɪʀᴇʟᴀɴᴅ(ɢʙ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 
 trojan://telegram-id-privatevpns@18.196.220.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
@@ -381,6 +387,8 @@ trojan://telegram-id-privatevpns@35.181.146.200:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@35.181.221.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.21.104.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@51.44.91.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@54.155.92.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
