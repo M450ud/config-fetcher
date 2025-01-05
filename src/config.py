@@ -48,10 +48,21 @@ class ProxyConfig:
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/configV2rayForFree"),
+            ChannelConfig("https://t.me/s/v2rayngvpn"),
+            ChannelConfig("https://t.me/s/V2ray_Alpha"),
+            ChannelConfig("https://t.me/s/ZibaNabz"),
+            ChannelConfig("https://t.me/s/SvnV2ray"),
+            ChannelConfig("https://t.me/s/RadixVPN"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/freewireguard"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub")
+            ChannelConfig("https://t.me/s/VlessConfig"),
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/ShadowProxy66"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
+            ChannelConfig("https://t.me/s/flyv2ray"),
+            ChannelConfig("https://t.me/s/V2RayTz"),
+            ChannelConfig("https://t.me/s/Maznet"),
+            ChannelConfig("https://t.me/s/ConfigsHUB"),
+            ChannelConfig("https://t.me/s/freewireguard")
         ]
 
         # Minimum and maximum number of configurations per protocol
