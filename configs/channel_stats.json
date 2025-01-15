@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-01-15T13:21:41.622664",
+  "timestamp": "2025-01-15T14:15:02.040056",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 46,
-        "valid_configs": 37,
-        "unique_configs": 37,
-        "avg_response_time": 0.63,
+        "total_configs": 31,
+        "valid_configs": 26,
+        "unique_configs": 26,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.17,
-        "last_success": "2025-01-15T13:19:04.823895"
+        "overall_score": 95.33,
+        "last_success": "2025-01-15T14:12:31.205323"
       }
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.56,
-        "success_count": 1,
+        "total_configs": 57,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 80.75,
-        "last_success": "2025-01-15T13:20:05.389657"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
@@ -129,16 +129,16 @@
     },
     {
       "url": "https://t.me/s/ShadowProxy66",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 156,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null
+        "total_configs": 52,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.57,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.54,
+        "last_success": "2025-01-15T14:14:04.380618"
       }
     },
     {
@@ -157,15 +157,15 @@
     },
     {
       "url": "https://t.me/s/flyv2ray",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 66,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 4,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -218,11 +218,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.05,
-        "last_success": "2025-01-15T13:21:41.620713"
+        "overall_score": 95.23,
+        "last_success": "2025-01-15T14:15:02.038023"
       }
     }
   ]
