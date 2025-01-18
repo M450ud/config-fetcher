@@ -66,20 +66,26 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/meli_proxyy"),
             ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://t.me/s/VmessProtocol"),
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
             ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            # ChannelConfig("https://t.me/s/VlessConfig"),
+            ChannelConfig("https://t.me/s/VlessConfig"),
+            ChannelConfig("https://t.me/s/RadixVPN"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
+            ChannelConfig("https://t.me/s/flyv2ray"),
+            ChannelConfig("https://t.me/s/V2RayTz"),
+            ChannelConfig("https://t.me/s/Maznet"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/ShadowsocksM"),
-            # ChannelConfig("https://t.me/s/v2rayngvpn")
-            # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
+            ChannelConfig("https://t.me/s/v2rayngvpn")
+            ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
         ]
 
         # Global limits for number of configs per protocol
         # Default values: min=3, max=25
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 9,    # Minimum configs required per protocol (default: 3)
-            "max": 25    # Maximum configs allowed per protocol (default: 25)
+            "min": 1,    # Minimum configs required per protocol (default: 3)
+            "max": 100    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
@@ -137,10 +143,10 @@ class ProxyConfig:
 
         # Channel-specific configuration limits
         self.MIN_CONFIGS_PER_CHANNEL = 1     # Minimum configs required from each channel (default: 3)
-        self.MAX_CONFIGS_PER_CHANNEL = 50    # Maximum configs allowed from each channel (default: 50)
+        self.MAX_CONFIGS_PER_CHANNEL = 100    # Maximum configs allowed from each channel (default: 50)
         self.MAX_CONFIG_AGE_DAYS = 90        # Maximum age of configs in days (default: 90)
         self.CHANNEL_RETRY_LIMIT = 10        # Maximum retry attempts per channel (default: 10)
-        self.CHANNEL_ERROR_THRESHOLD = 0.7   # Error rate threshold to disable channel (default: 0.7 or 70%)
+        self.CHANNEL_ERROR_THRESHOLD = 0.5   # Error rate threshold to disable channel (default: 0.7 or 70%)
         self.MIN_PROTOCOL_RATIO = 0.1        # Minimum ratio of configs per protocol (default: 0.1 or 10%)
 
         # Dynamic protocol adjustment settings
