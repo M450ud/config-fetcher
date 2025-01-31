@@ -56,6 +56,10 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/ipv6.txt"),
+            ChannelConfig("https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/mahsa.txt"),
+            ChannelConfig("https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt"),
+            ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria"),
             ChannelConfig("https://t.me/s/FreeV2rays/"),
             ChannelConfig("https://t.me/s/v2ray_free_conf/"),
             ChannelConfig("https://t.me/s/PrivateVPNs/"),
@@ -86,7 +90,6 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/vpnfail_vless/"),
             ChannelConfig("https://t.me/s/vlessh"),
             ChannelConfig("https://t.me/s/v2rayngvpn")
-            ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
         ]
 
         # Remove duplicate URLs before assigning to SOURCE_URLS
@@ -97,7 +100,7 @@ class ProxyConfig:
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 1,    # Minimum configs required per protocol (default: 3)
-            "max": 500    # Maximum configs allowed per protocol (default: 25)
+            "max": 5000    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
