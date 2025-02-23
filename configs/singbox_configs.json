@@ -85,74 +85,82 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-114955f6",
-        "vless-8cc1b07a",
-        "vless-e25b0481",
-        "vless-f4d8128c",
-        "vless-636f899b",
-        "vless-e751e2c0",
-        "vless-618ba89d",
-        "vless-a77077bc",
-        "vless-d2de8c91",
-        "vless-bb08bde3",
-        "vless-219bf45a",
-        "vless-e2afd2c0",
-        "trojan-9370eb85",
-        "trojan-bbc60135",
-        "trojan-af04c2b6",
-        "trojan-80f72342",
-        "trojan-b566b29b",
-        "trojan-b34ad120",
-        "trojan-6171e1eb",
-        "trojan-c0d91bbc",
-        "trojan-66e70120",
-        "trojan-24c04b92",
-        "trojan-7fb4a354",
-        "trojan-a7bd81e0",
-        "trojan-f4fba46a",
-        "trojan-e0f3240e",
-        "trojan-6522c8cb",
-        "trojan-93c7053d",
-        "trojan-39e61878",
-        "trojan-49051300",
-        "trojan-ba93d084",
-        "trojan-19d85e98",
-        "trojan-5441e89a",
-        "trojan-37bfd4f3",
-        "trojan-52d5c7ee",
-        "trojan-aceb5dba",
-        "trojan-70211a6a",
-        "trojan-94fcfedf",
-        "trojan-f7471fd7",
-        "trojan-e4b1167c",
-        "trojan-79ea144c",
-        "trojan-f4f3050c",
-        "trojan-e66cd202",
-        "vmess-6e173a02",
-        "vmess-5d0847f1",
-        "vmess-ab2e7fe2",
-        "vmess-ce20fbca",
-        "vmess-e5415f99",
-        "vmess-62cc0943",
-        "vmess-3fc3794b",
-        "vmess-b6e957ce",
-        "vmess-9e9324dc",
-        "vmess-e5d31e38",
-        "vmess-e8ac9235",
-        "vmess-88a31a8c",
-        "vmess-d94f294f",
-        "vmess-35d1f4ea",
-        "vmess-5b462f7c",
-        "vmess-649bead4",
-        "vmess-d17e9124",
-        "vmess-0e909694",
-        "vmess-3314cdca",
-        "vmess-09432700",
-        "vmess-b4a756e9",
-        "vmess-f2ed0c6c",
-        "vmess-cd7dc691",
-        "vmess-f6aba6fb",
-        "vmess-808a55e1",
+        "vless-80fbee6d",
+        "vless-6fd01953",
+        "vless-88fb66ef",
+        "vless-7c734fa4",
+        "vless-fa79e4d1",
+        "vless-bb7761b8",
+        "vless-1832f649",
+        "vless-2103c09a",
+        "vless-e202e9ac",
+        "vless-0e29777c",
+        "vless-f9a5babe",
+        "vless-bc692403",
+        "trojan-27e5e273",
+        "trojan-447a7d44",
+        "trojan-707d000e",
+        "trojan-b1a7a17f",
+        "trojan-52d44c4b",
+        "trojan-bdb45bff",
+        "trojan-2fc64e86",
+        "trojan-03c13522",
+        "trojan-3e481204",
+        "trojan-5f1b2fa4",
+        "trojan-5429990f",
+        "trojan-61b27d07",
+        "trojan-f42be5d8",
+        "trojan-315113f0",
+        "trojan-f084a364",
+        "trojan-bda233d7",
+        "trojan-0a23ce75",
+        "trojan-c71ead4d",
+        "trojan-bc671dd5",
+        "trojan-131da7bb",
+        "trojan-ebb8d6a7",
+        "trojan-05a7e645",
+        "trojan-84a20abe",
+        "trojan-ac13a348",
+        "trojan-d774e450",
+        "trojan-537a66a8",
+        "trojan-b2b7b153",
+        "trojan-476d9a38",
+        "trojan-73c887e6",
+        "trojan-e6b7abdf",
+        "trojan-19913b9e",
+        "trojan-38064c7c",
+        "trojan-2752a66e",
+        "trojan-8d220c03",
+        "vmess-bebcf081",
+        "vmess-6f9d9c19",
+        "vmess-5989f176",
+        "vmess-9502d924",
+        "vmess-eae45d5b",
+        "vmess-5df76878",
+        "vmess-c5d7dee1",
+        "vmess-aa534679",
+        "vmess-707bdf71",
+        "vmess-446d301f",
+        "vmess-6314b536",
+        "vmess-9a90c2ce",
+        "vmess-aff7cfb0",
+        "vmess-2f8ec4b3",
+        "vmess-e8addcf0",
+        "vmess-a22d974e",
+        "vmess-9ed2b1ae",
+        "vmess-d5a8e591",
+        "vmess-ab3ef76d",
+        "vmess-a6c3230c",
+        "vmess-a9c3d121",
+        "vmess-35042651",
+        "vmess-b03edb8f",
+        "vmess-e1e0e503",
+        "vmess-4cd24eea",
+        "vmess-460cd478",
+        "vmess-025f04ae",
+        "vmess-eb9b9818",
+        "vmess-a8e7c535",
+        "vmess-65afce9a",
         "direct"
       ]
     },
@@ -160,74 +168,82 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-114955f6",
-        "vless-8cc1b07a",
-        "vless-e25b0481",
-        "vless-f4d8128c",
-        "vless-636f899b",
-        "vless-e751e2c0",
-        "vless-618ba89d",
-        "vless-a77077bc",
-        "vless-d2de8c91",
-        "vless-bb08bde3",
-        "vless-219bf45a",
-        "vless-e2afd2c0",
-        "trojan-9370eb85",
-        "trojan-bbc60135",
-        "trojan-af04c2b6",
-        "trojan-80f72342",
-        "trojan-b566b29b",
-        "trojan-b34ad120",
-        "trojan-6171e1eb",
-        "trojan-c0d91bbc",
-        "trojan-66e70120",
-        "trojan-24c04b92",
-        "trojan-7fb4a354",
-        "trojan-a7bd81e0",
-        "trojan-f4fba46a",
-        "trojan-e0f3240e",
-        "trojan-6522c8cb",
-        "trojan-93c7053d",
-        "trojan-39e61878",
-        "trojan-49051300",
-        "trojan-ba93d084",
-        "trojan-19d85e98",
-        "trojan-5441e89a",
-        "trojan-37bfd4f3",
-        "trojan-52d5c7ee",
-        "trojan-aceb5dba",
-        "trojan-70211a6a",
-        "trojan-94fcfedf",
-        "trojan-f7471fd7",
-        "trojan-e4b1167c",
-        "trojan-79ea144c",
-        "trojan-f4f3050c",
-        "trojan-e66cd202",
-        "vmess-6e173a02",
-        "vmess-5d0847f1",
-        "vmess-ab2e7fe2",
-        "vmess-ce20fbca",
-        "vmess-e5415f99",
-        "vmess-62cc0943",
-        "vmess-3fc3794b",
-        "vmess-b6e957ce",
-        "vmess-9e9324dc",
-        "vmess-e5d31e38",
-        "vmess-e8ac9235",
-        "vmess-88a31a8c",
-        "vmess-d94f294f",
-        "vmess-35d1f4ea",
-        "vmess-5b462f7c",
-        "vmess-649bead4",
-        "vmess-d17e9124",
-        "vmess-0e909694",
-        "vmess-3314cdca",
-        "vmess-09432700",
-        "vmess-b4a756e9",
-        "vmess-f2ed0c6c",
-        "vmess-cd7dc691",
-        "vmess-f6aba6fb",
-        "vmess-808a55e1"
+        "vless-80fbee6d",
+        "vless-6fd01953",
+        "vless-88fb66ef",
+        "vless-7c734fa4",
+        "vless-fa79e4d1",
+        "vless-bb7761b8",
+        "vless-1832f649",
+        "vless-2103c09a",
+        "vless-e202e9ac",
+        "vless-0e29777c",
+        "vless-f9a5babe",
+        "vless-bc692403",
+        "trojan-27e5e273",
+        "trojan-447a7d44",
+        "trojan-707d000e",
+        "trojan-b1a7a17f",
+        "trojan-52d44c4b",
+        "trojan-bdb45bff",
+        "trojan-2fc64e86",
+        "trojan-03c13522",
+        "trojan-3e481204",
+        "trojan-5f1b2fa4",
+        "trojan-5429990f",
+        "trojan-61b27d07",
+        "trojan-f42be5d8",
+        "trojan-315113f0",
+        "trojan-f084a364",
+        "trojan-bda233d7",
+        "trojan-0a23ce75",
+        "trojan-c71ead4d",
+        "trojan-bc671dd5",
+        "trojan-131da7bb",
+        "trojan-ebb8d6a7",
+        "trojan-05a7e645",
+        "trojan-84a20abe",
+        "trojan-ac13a348",
+        "trojan-d774e450",
+        "trojan-537a66a8",
+        "trojan-b2b7b153",
+        "trojan-476d9a38",
+        "trojan-73c887e6",
+        "trojan-e6b7abdf",
+        "trojan-19913b9e",
+        "trojan-38064c7c",
+        "trojan-2752a66e",
+        "trojan-8d220c03",
+        "vmess-bebcf081",
+        "vmess-6f9d9c19",
+        "vmess-5989f176",
+        "vmess-9502d924",
+        "vmess-eae45d5b",
+        "vmess-5df76878",
+        "vmess-c5d7dee1",
+        "vmess-aa534679",
+        "vmess-707bdf71",
+        "vmess-446d301f",
+        "vmess-6314b536",
+        "vmess-9a90c2ce",
+        "vmess-aff7cfb0",
+        "vmess-2f8ec4b3",
+        "vmess-e8addcf0",
+        "vmess-a22d974e",
+        "vmess-9ed2b1ae",
+        "vmess-d5a8e591",
+        "vmess-ab3ef76d",
+        "vmess-a6c3230c",
+        "vmess-a9c3d121",
+        "vmess-35042651",
+        "vmess-b03edb8f",
+        "vmess-e1e0e503",
+        "vmess-4cd24eea",
+        "vmess-460cd478",
+        "vmess-025f04ae",
+        "vmess-eb9b9818",
+        "vmess-a8e7c535",
+        "vmess-65afce9a"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -247,7 +263,21 @@
     },
     {
       "type": "vless",
-      "tag": "vless-114955f6",
+      "tag": "vless-80fbee6d",
+      "server": "188.34.201.88",
+      "server_port": 16072,
+      "uuid": "%34%39%63%66%35%35%35%30%2d%64%34%61%65%2d%34%63%61%36%2d%39%62%62%36%2d%37%61%61%35%61%31%30%30%32%38%65%64",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "188.34.201.88",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "vless-6fd01953",
       "server": "151.101.194.228",
       "server_port": 80,
       "uuid": "%35%64%65%33%33%65%66%37%2d%66%35%64%30%2d%34%34%64%65%2d%62%34%38%32%2d%66%62%32%35%38%32%64%36%39%30%31%64",
@@ -267,7 +297,47 @@
     },
     {
       "type": "vless",
-      "tag": "vless-8cc1b07a",
+      "tag": "vless-88fb66ef",
+      "server": "104.17.148.22",
+      "server_port": 2083,
+      "uuid": "%38%39%62%33%63%62%62%61%2d%65%36%61%63%2d%34%38%35%61%2d%39%34%38%31%2d%39%37%36%61%30%34%31%35%65%61%62%39",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "hAsTi.frEEairLainEs.Com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/G9WiaAeAdacfio6X?ed=2560",
+        "headers": {
+          "Host": "HaSTI.fReeAIrLAINes.COm"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "vless-7c734fa4",
+      "server": "104.17.148.22",
+      "server_port": 2083,
+      "uuid": "%38%39%62%33%63%62%62%61%2d%65%36%61%63%2d%34%38%35%61%2d%39%34%38%31%2d%39%37%36%61%30%34%31%35%65%61%62%39",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "hAsTi.frEEairLainEs.Com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/G9WiaAeAdacfio6X?ed=2560",
+        "headers": {
+          "Host": "HaSTI.fReeAIrLAINes.COm"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "vless-fa79e4d1",
       "server": "151.101.0.155",
       "server_port": 80,
       "uuid": "%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52%2d%66%39%36%35%38%34%37%66%64%65%39%66",
@@ -287,7 +357,27 @@
     },
     {
       "type": "vless",
-      "tag": "vless-e25b0481",
+      "tag": "vless-bb7761b8",
+      "server": "151.101.0.155",
+      "server_port": 80,
+      "uuid": "%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52%2d%66%39%36%35%38%34%37%66%64%65%39%66",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "151.101.0.155",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080",
+        "headers": {
+          "Host": "6.nufilter-telegram.ir"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "vless-1832f649",
       "server": "212.34.133.75",
       "server_port": 14926,
       "uuid": "%5aED%4d%4fDE%4f%4e--%5aED%4d%4fDE%4f%4e",
@@ -301,7 +391,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-f4d8128c",
+      "tag": "vless-2103c09a",
       "server": "151.101.194.228",
       "server_port": 80,
       "uuid": "%64%31%39%38%64%35%63%39%2d%33%66%63%66%2d%34%33%39%38%2d%38%62%66%37%2d%30%33%33%38%61%31%34%66%63%66%64%37",
@@ -321,7 +411,27 @@
     },
     {
       "type": "vless",
-      "tag": "vless-636f899b",
+      "tag": "vless-e202e9ac",
+      "server": "104.26.15.85",
+      "server_port": 80,
+      "uuid": "%64%33%34%32%64%31%31%65%2d%64%34%32%34%2d%34%35%38%33%2d%62%33%36%65%2d%35%32%34%61%62%31%66%30%61%66%61%34",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "104.26.15.85",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "a.xn--i-sx6a60i.us.kg."
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "vless-0e29777c",
       "server": "151.101.192.155",
       "server_port": 80,
       "uuid": "%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79",
@@ -341,7 +451,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-e751e2c0",
+      "tag": "vless-f9a5babe",
       "server": "151.101.194.133",
       "server_port": 443,
       "uuid": "%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79",
@@ -361,7 +471,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-618ba89d",
+      "tag": "vless-bc692403",
       "server": "151.101.194.133",
       "server_port": 443,
       "uuid": "%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79",
@@ -376,94 +486,12 @@
         "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
         "headers": {
           "Host": "cuiuiu.ir"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "vless-a77077bc",
-      "server": "208.83.235.24",
-      "server_port": 8080,
-      "uuid": "02b54f3e-05a8-4212-ab21-8af3c2837155",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "208.83.235.24",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": ""
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "vless-d2de8c91",
-      "server": "91.225.217.208",
-      "server_port": 1142,
-      "uuid": "03588a25-b81d-40b1-bda4-7bb7700281ac",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "stackoverflow.com",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "vless-bb08bde3",
-      "server": "95.164.62.158",
-      "server_port": 1152,
-      "uuid": "03588a25-b81d-40b1-bda4-7bb7700281ac",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "stackoverflow.com",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "vless-219bf45a",
-      "server": "95.164.85.110",
-      "server_port": 1142,
-      "uuid": "03588a25-b81d-40b1-bda4-7bb7700281ac",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "stackoverflow.com",
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "vless",
-      "tag": "vless-e2afd2c0",
-      "server": "155.138.193.226",
-      "server_port": 8080,
-      "uuid": "044ea0d1-309e-42a3-b9b0-a9fab400929e",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "155.138.193.226",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": ""
         }
       }
     },
     {
       "type": "trojan",
-      "tag": "trojan-9370eb85",
+      "tag": "trojan-27e5e273",
       "server": "uk1.test3.net",
       "server_port": 443,
       "password": "1ec653e0-d295-11ef-8eee-1239d0255272",
@@ -477,7 +505,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-bbc60135",
+      "tag": "trojan-447a7d44",
       "server": "74.226.136.204",
       "server_port": 443,
       "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
@@ -491,7 +519,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-af04c2b6",
+      "tag": "trojan-707d000e",
       "server": "hk03.trojanyyds.xyz",
       "server_port": 443,
       "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
@@ -505,7 +533,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-80f72342",
+      "tag": "trojan-b1a7a17f",
       "server": "sg02.trojanyyds.xyz",
       "server_port": 443,
       "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
@@ -519,7 +547,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-b566b29b",
+      "tag": "trojan-52d44c4b",
       "server": "sg02.trojanyyds.xyz",
       "server_port": 443,
       "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
@@ -533,7 +561,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-b34ad120",
+      "tag": "trojan-bdb45bff",
       "server": "us01.trojanyyds.xyz",
       "server_port": 443,
       "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
@@ -547,7 +575,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-6171e1eb",
+      "tag": "trojan-2fc64e86",
       "server": "185.67.125.147",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -561,7 +589,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-c0d91bbc",
+      "tag": "trojan-03c13522",
       "server": "216.238.77.127",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -575,7 +603,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-66e70120",
+      "tag": "trojan-3e481204",
       "server": "87.120.204.100",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -589,7 +617,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-24c04b92",
+      "tag": "trojan-5f1b2fa4",
       "server": "87.120.204.100",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -603,7 +631,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-7fb4a354",
+      "tag": "trojan-5429990f",
       "server": "alive-polecat.treefrog761.one",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -617,7 +645,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-a7bd81e0",
+      "tag": "trojan-61b27d07",
       "server": "alive-polecat.treefrog761.one",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -631,7 +659,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-f4fba46a",
+      "tag": "trojan-f42be5d8",
       "server": "fluent-bat.treefrog761.one",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -645,7 +673,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-e0f3240e",
+      "tag": "trojan-315113f0",
       "server": "model-fly.adder289.quest",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -659,7 +687,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-6522c8cb",
+      "tag": "trojan-f084a364",
       "server": "oriented-pug.adder289.quest",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -673,7 +701,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-93c7053d",
+      "tag": "trojan-bda233d7",
       "server": "polished-ox.treefrog761.one",
       "server_port": 443,
       "password": "3747000103274291200",
@@ -687,7 +715,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-39e61878",
+      "tag": "trojan-0a23ce75",
       "server": "www.tiktok.com.jp1.viefast.net",
       "server_port": 443,
       "password": "3bcd9e33-8377-4b32-af33-217158577ff3",
@@ -701,7 +729,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-49051300",
+      "tag": "trojan-c71ead4d",
       "server": "www.tiktok.com.jp3.viefast.net",
       "server_port": 443,
       "password": "3bcd9e33-8377-4b32-af33-217158577ff3",
@@ -715,7 +743,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-ba93d084",
+      "tag": "trojan-bc671dd5",
       "server": "104.251.227.182",
       "server_port": 443,
       "password": "43e5eeacbad3032bfe4c25a2f011b6b7",
@@ -729,35 +757,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-19d85e98",
-      "server": "jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.9d8f269f96b25232-759cbb36d6548597.kaufen",
-      "server_port": 443,
-      "password": "6d0a7f2f-c26c-466a-8f90-d6630ba97928",
-      "tls": {
-        "enabled": true,
-        "server_name": "829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "trojan-5441e89a",
-      "server": "us1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.9d8f269f96b25232-759cbb36d6548597.kaufen",
-      "server_port": 443,
-      "password": "6d0a7f2f-c26c-466a-8f90-d6630ba97928",
-      "tls": {
-        "enabled": true,
-        "server_name": "829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "trojan-37bfd4f3",
+      "tag": "trojan-131da7bb",
       "server": "104.234.233.57",
       "server_port": 35911,
       "password": "Aimer",
@@ -771,7 +771,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-52d5c7ee",
+      "tag": "trojan-ebb8d6a7",
       "server": "104.234.233.57",
       "server_port": 35911,
       "password": "Aimer",
@@ -785,7 +785,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-aceb5dba",
+      "tag": "trojan-05a7e645",
       "server": "108.165.152.93",
       "server_port": 2083,
       "password": "Aimer",
@@ -799,21 +799,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-70211a6a",
-      "server": "108.165.152.93",
-      "server_port": 2083,
-      "password": "Aimer",
-      "tls": {
-        "enabled": true,
-        "server_name": "agept.ambercc.filegear-sg.me",
-        "alpn": [],
-        "insecure": true
-      },
-      "transport": {}
-    },
-    {
-      "type": "trojan",
-      "tag": "trojan-94fcfedf",
+      "tag": "trojan-84a20abe",
       "server": "121.153.45.186",
       "server_port": 18004,
       "password": "Aimer",
@@ -827,7 +813,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-f7471fd7",
+      "tag": "trojan-ac13a348",
       "server": "135.84.76.152",
       "server_port": 2087,
       "password": "Aimer",
@@ -841,7 +827,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-e4b1167c",
+      "tag": "trojan-d774e450",
       "server": "14.47.103.113",
       "server_port": 12167,
       "password": "Aimer",
@@ -855,7 +841,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-79ea144c",
+      "tag": "trojan-537a66a8",
       "server": "154.17.227.138",
       "server_port": 587,
       "password": "Aimer",
@@ -869,7 +855,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-f4f3050c",
+      "tag": "trojan-b2b7b153",
       "server": "154.197.64.155",
       "server_port": 2053,
       "password": "Aimer",
@@ -883,7 +869,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-e66cd202",
+      "tag": "trojan-476d9a38",
       "server": "154.197.64.248",
       "server_port": 8443,
       "password": "Aimer",
@@ -896,8 +882,92 @@
       "transport": {}
     },
     {
+      "type": "trojan",
+      "tag": "trojan-73c887e6",
+      "server": "154.21.93.92",
+      "server_port": 37955,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agept.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-e6b7abdf",
+      "server": "154.211.8.109",
+      "server_port": 2087,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agept.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-19913b9e",
+      "server": "154.218.15.250",
+      "server_port": 2083,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agept.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-38064c7c",
+      "server": "154.219.5.65",
+      "server_port": 2087,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agept.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-2752a66e",
+      "server": "154.9.241.61",
+      "server_port": 587,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agepu.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-8d220c03",
+      "server": "156.251.180.181",
+      "server_port": 21698,
+      "password": "Aimer",
+      "tls": {
+        "enabled": true,
+        "server_name": "agept.ambercc.filegear-sg.me",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
       "type": "vmess",
-      "tag": "vmess-6e173a02",
+      "tag": "vmess-bebcf081",
       "server": "2408:8214:2512:f631::fab",
       "server_port": 52786,
       "uuid": "0557b70c-c124-4246-96af-f3b8ef9d111b",
@@ -912,7 +982,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-5d0847f1",
+      "tag": "vmess-6f9d9c19",
       "server": "154.26.129.247",
       "server_port": 57143,
       "uuid": "28efbf36-079a-4c98-8470-d13458db6ee6",
@@ -927,7 +997,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-ab2e7fe2",
+      "tag": "vmess-5989f176",
       "server": "westsg2-ddns.oraclenat.cc",
       "server_port": 23452,
       "uuid": "7318bc15-4bff-4e22-aac3-4d9f849930db",
@@ -948,7 +1018,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-ce20fbca",
+      "tag": "vmess-9502d924",
       "server": "2408:8214:2512:f631::fab",
       "server_port": 52786,
       "uuid": "0557b70c-c124-4246-96af-f3b8ef9d111b",
@@ -963,7 +1033,28 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-e5415f99",
+      "tag": "vmess-eae45d5b",
+      "server": "westsg2-ddns.oraclenat.cc",
+      "server_port": 23452,
+      "uuid": "7318bc15-4bff-4e22-aac3-4d9f849930db",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "westsg2-ddns.oraclenat.cc"
+        }
+      },
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": "westsg2-ddns.oraclenat.cc"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-5df76878",
       "server": "104.21.25.65",
       "server_port": 2087,
       "uuid": "864112a6-ceeb-4126-b7e2-509c2a203d20",
@@ -978,7 +1069,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-62cc0943",
+      "tag": "vmess-c5d7dee1",
       "server": "194.233.72.228",
       "server_port": 27575,
       "uuid": "16509262-dbe2-43ba-99ce-07913d2a18b4",
@@ -993,7 +1084,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-3fc3794b",
+      "tag": "vmess-aa534679",
       "server": "46.250.253.232",
       "server_port": 46617,
       "uuid": "55b88b14-0ff3-4f25-8983-e73d1f9f3a0a",
@@ -1008,7 +1099,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-b6e957ce",
+      "tag": "vmess-707bdf71",
       "server": "47.92.152.169",
       "server_port": 50002,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
@@ -1023,7 +1114,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-9e9324dc",
+      "tag": "vmess-446d301f",
       "server": "47.92.152.169",
       "server_port": 50002,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
@@ -1038,7 +1129,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-e5d31e38",
+      "tag": "vmess-6314b536",
       "server": "47.104.186.133",
       "server_port": 50002,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
@@ -1053,22 +1144,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-e8ac9235",
-      "server": "47.104.186.133",
-      "server_port": 50002,
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-      "security": "none",
-      "alter_id": 0,
-      "transport": {},
-      "tls": {
-        "enabled": false,
-        "insecure": true,
-        "server_name": ""
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "vmess-88a31a8c",
+      "tag": "vmess-9a90c2ce",
       "server": "5.196.29.123",
       "server_port": 2082,
       "uuid": "112ac36f-3f53-4e26-8371-d25c028e1b9a",
@@ -1089,7 +1165,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-d94f294f",
+      "tag": "vmess-aff7cfb0",
       "server": "57.129.24.125",
       "server_port": 443,
       "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1110,7 +1186,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-35d1f4ea",
+      "tag": "vmess-2f8ec4b3",
       "server": "79.127.229.54",
       "server_port": 18000,
       "uuid": "fa1897db-1925-4c86-a495-939a959af900",
@@ -1125,7 +1201,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-5b462f7c",
+      "tag": "vmess-e8addcf0",
       "server": "79.127.229.54",
       "server_port": 18000,
       "uuid": "fa1897db-1925-4c86-a495-939a959af900",
@@ -1140,7 +1216,22 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-649bead4",
+      "tag": "vmess-a22d974e",
+      "server": "91.107.188.10",
+      "server_port": 8085,
+      "uuid": "f8eacffc-bad8-4d83-9022-82c98ec67f2b",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-9ed2b1ae",
       "server": "94.131.97.127",
       "server_port": 8880,
       "uuid": "dd1154b1-d5fa-5e52-a108-75e568c4ad06",
@@ -1155,7 +1246,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-d17e9124",
+      "tag": "vmess-d5a8e591",
       "server": "95.164.10.116",
       "server_port": 8880,
       "uuid": "10089a55-26c0-5214-956b-acaf3447119b",
@@ -1170,7 +1261,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-0e909694",
+      "tag": "vmess-ab3ef76d",
       "server": "95.164.4.88",
       "server_port": 80,
       "uuid": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
@@ -1191,7 +1282,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-3314cdca",
+      "tag": "vmess-a6c3230c",
       "server": "101.99.91.234",
       "server_port": 36700,
       "uuid": "127ff43c-1851-4b2d-ba8c-6afba21ec04d",
@@ -1206,7 +1297,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-09432700",
+      "tag": "vmess-a9c3d121",
       "server": "103.149.183.178",
       "server_port": 27512,
       "uuid": "96d38683-0817-4d91-bffa-6f03df18d9dc",
@@ -1221,7 +1312,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-b4a756e9",
+      "tag": "vmess-35042651",
       "server": "104.17.213.241",
       "server_port": 2086,
       "uuid": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
@@ -1242,7 +1333,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-f2ed0c6c",
+      "tag": "vmess-b03edb8f",
       "server": "104.19.150.10",
       "server_port": 2095,
       "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
@@ -1257,7 +1348,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-cd7dc691",
+      "tag": "vmess-e1e0e503",
       "server": "104.19.150.10",
       "server_port": 2095,
       "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
@@ -1272,7 +1363,7 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-f6aba6fb",
+      "tag": "vmess-4cd24eea",
       "server": "104.19.150.10",
       "server_port": 2095,
       "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
@@ -1287,7 +1378,67 @@
     },
     {
       "type": "vmess",
-      "tag": "vmess-808a55e1",
+      "tag": "vmess-460cd478",
+      "server": "104.19.150.10",
+      "server_port": 2095,
+      "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-025f04ae",
+      "server": "104.19.150.10",
+      "server_port": 2095,
+      "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-eb9b9818",
+      "server": "104.19.150.10",
+      "server_port": 2095,
+      "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-a8e7c535",
+      "server": "104.19.150.10",
+      "server_port": 2095,
+      "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {},
+      "tls": {
+        "enabled": false,
+        "insecure": true,
+        "server_name": ""
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "vmess-65afce9a",
       "server": "104.19.150.10",
       "server_port": 2095,
       "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
